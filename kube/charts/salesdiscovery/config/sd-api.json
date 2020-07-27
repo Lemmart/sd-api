@@ -1,0 +1,6 @@
+{
+  "service_config": {
+    "listen_address": ":443",
+    "use_tls": true
+  }
+}
